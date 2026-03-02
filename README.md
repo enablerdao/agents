@@ -31,6 +31,14 @@
 
 全操作に **ENABLER Member NFT** (Solana) の保有が必要。
 
+| 項目 | 値 |
+|------|-----|
+| NFT Mint | `A9rhRaxkD7gBxsmxgBhxTbzPZQD43sC5ryXcX8XDj1Ft` |
+| 総供給量 | 4 (ミント権限は保持) |
+| Decimals | 0 |
+| チェック方法 | `GET /wallet/{address}/nft` |
+| ネットワーク | Solana Mainnet |
+
 ## 関連リポジトリ
 
 - [yukihamada/rustydog](https://github.com/yukihamada/rustydog) — Dog Pack 本体 (Rust + WASM)
